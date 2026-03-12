@@ -1,14 +1,14 @@
-# Hotel Booking Demand Analysis
+# Hotel Booking Demand Analysis (SQL Data Analysis Project)
 
 ## Project Overview
-This project analyzes hotel booking demand patterns using a dataset of over 119,000 hotel reservations.  
-The objective is to identify key tourism trends, revenue drivers, cancellation patterns, and guest stay behavior.
+This project analyzes hotel booking demand patterns using a dataset of over 119,000 hotel reservations.
+The analysis explores tourism demand trends, seasonal booking behavior, cancellation patterns, and revenue drivers using SQL queries and data visualization.
 
 ## Tools Used
-- SQL
-- DBeaver
-- Google Sheets
-- Data Visualization
+- SQL (Data analysis and aggregation)
+- DBeaver (SQL query environment)
+- Google Sheets (data visualization)
+- GitHub (project documentation and portfolio)
 
 ## Dataset
 Hotel Booking Demand Dataset  
@@ -23,12 +23,21 @@ Variables: 32 columns
 5. Which countries generate the highest revenue?
 
 ## Key Insights
-- Portugal generates the highest number of bookings and revenue, as the dataset represents hotels located in Portugal.
-- International demand is driven mainly by travelers from the United Kingdom, France, Spain, and Germany.
-- Hotel bookings peak during summer months, especially July and August.
-- City Hotels contribute nearly 70% of total revenue compared to Resort Hotels.
-- Approximately 37% of bookings are cancelled, indicating a significant cancellation rate in the hotel industry.
+- Portugal generates the highest number of bookings and revenue since the hotels in the dataset are located in Portugal.
+- International demand is primarily driven by travelers from the United Kingdom, France, Spain, and Germany.
+- Hotel bookings peak during the summer months, particularly July and August.
+- City Hotels generate approximately 70% of total revenue compared to Resort Hotels.
+- Around 37% of bookings are cancelled, indicating a relatively high cancellation rate in the hotel industry.
 
+## Data Analysis Approach
+The analysis was performed using SQL queries to explore booking patterns, aggregate revenue metrics, and identify trends across countries, months, and hotel types.
+
+Key SQL techniques used include:
+- GROUP BY aggregation
+- COUNT and SUM calculations
+- Revenue estimation
+- Sorting and filtering for trend analysis
+  
 ## Visualizations
 
 ### Top Countries by Hotel Bookings
