@@ -37,6 +37,12 @@ Key SQL techniques used include:
 - COUNT and SUM calculations
 - Revenue estimation
 - Sorting and filtering for trend analysis
+
+## SQL Queries
+
+The SQL queries used for this analysis can be found here:
+
+[View SQL Queries](hotel_booking_analysis.sql)
   
 ## Visualizations
 
